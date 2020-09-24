@@ -1,4 +1,5 @@
 # TIC_20_21
+Repositorio de TIC curso 2020/2021
 
 ### Notas
 * En ***cuadrado_de_cuadrados.py*** introduce un número impar como número de filas para obtener un efecto similar al de un ajedrez.
