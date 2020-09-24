@@ -1,7 +1,7 @@
 def suma_gauss(num):
-    resultado = 0
+    suma_acumulada = 0
     for i in range(1, num+1):
-        resultado = resultado + i;
-    return resultado
+        suma_acumulada = suma_acumulada + i;
+    return suma_acumulada
 
 print suma_gauss(100)
