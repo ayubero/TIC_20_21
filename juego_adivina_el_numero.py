@@ -3,7 +3,6 @@ import random
 
 def adivinar():
     numero = random.randint(1,10)
-    print numero
     intentos = 0
     while True:
         intentos += 1
