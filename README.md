@@ -7,7 +7,7 @@ Es posible que algunos ficheros .py no se ejecuten correctamente, ya que algunos
 ## 1ª Evaulación
 ### Progreso de los 30 ejercicios
 
-![50%](https://progress-bar.dev/20)ç
+![50%](https://progress-bar.dev/20)
 Hay que acabar el ejercicio 13
 
 ### Notas
