@@ -7,7 +7,8 @@ Es posible que algunos ficheros .py no se ejecuten correctamente, ya que algunos
 ## 1ª Evaulación
 ### Progreso de los 30 ejercicios
 
-![50%](https://progress-bar.dev/20)
+![50%](https://progress-bar.dev/20)ç
+Hay que acabar el ejercicio 13
 
 ### Notas
 * En ***cuadrado_de_cuadrados.py*** introduce un número impar como número de filas para obtener un efecto similar al de un ajedrez.
