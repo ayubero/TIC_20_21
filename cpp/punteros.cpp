@@ -7,4 +7,6 @@ int main() {
 	
 	cout << "Direccion de memoria: " <<  &x;
 	cout << "\nValor: " << *px;
+	
+	return 0;
 }
